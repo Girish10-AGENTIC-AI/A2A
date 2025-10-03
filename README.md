@@ -1,4 +1,4 @@
-# Agent to Agent (A2A) Foundations
+# What is Agent to Agent (A2A) ?
 
 This is a beginner-friendly repository demonstrating how to build multi-agent AI systems using the [Agent2Agent (A2A)](https://a2aprotocol.ai/) protocol.
 
@@ -70,3 +70,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
